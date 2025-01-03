@@ -86,7 +86,7 @@ Inferences about Literary Text: The Role of Domain-Specific Knowledge.”
 
 <div id="ref-Voinarovsky2005" class="csl-entry">
 
-Войнаровский, М. Ю. 2005. “Тест На Логическое Мышление.” In
+Войнаровский, М. Ю. 2005. Тест На Логическое Мышление //
 *Психологика*. <https://voinarovsky.ru/test/test.htm>.
 
 </div>
